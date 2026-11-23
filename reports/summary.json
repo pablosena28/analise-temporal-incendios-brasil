@@ -1,0 +1,29 @@
+{
+  "raw_rows": 6454,
+  "clean_rows": 6453,
+  "removed_duplicate_rows": 1,
+  "period": {
+    "start": "1998-01-01",
+    "end": "2017-11-01",
+    "full_years": "1998-2016",
+    "partial_year": 2017
+  },
+  "quality": {
+    "missing_values": 0,
+    "territorial_labels": 23,
+    "date_column_note": "A coluna date registra 01/01 do ano e não o mês observado."
+  },
+  "results": {
+    "peak_year": 2003,
+    "peak_year_value": 42760.674,
+    "lowest_year": 1998,
+    "lowest_year_value": 20013.971,
+    "value_2016": 42212.229,
+    "change_1998_2016_pct": 110.91,
+    "peak_month": "Julho",
+    "peak_month_sum": 86396.115,
+    "jul_to_oct_share_pct": 46.99,
+    "peak_year_month": "2006-08",
+    "peak_year_month_value": 7338.127
+  }
+}
